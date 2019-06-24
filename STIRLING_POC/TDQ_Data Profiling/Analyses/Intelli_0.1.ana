@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataquality.analysis:Analysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:dataquality.analysis="http://dataquality.analysis" xmi:id="_tOS2gZZiEemRzcoMFIjDFQ" name="Intelli" creationDate="2019-06-24T17:30:29.736+0800">
+  <taggedValue xmi:id="_tOS2gpZiEemRzcoMFIjDFQ" tag="Status" value="development"/>
+  <taggedValue xmi:id="_tOS2g5ZiEemRzcoMFIjDFQ" tag="Author" value="dale.horgan@eval11688.talend.com"/>
+  <taggedValue xmi:id="_tOS2hJZiEemRzcoMFIjDFQ" tag="Purpose"/>
+  <taggedValue xmi:id="_tOS2hZZiEemRzcoMFIjDFQ" tag="Description"/>
+  <taggedValue xmi:id="_tOS2hpZiEemRzcoMFIjDFQ" tag="Version" value="0.1"/>
+  <context xmi:id="_tOS2h5ZiEemRzcoMFIjDFQ"/>
+  <results xmi:id="_tOS2iJZiEemRzcoMFIjDFQ">
+    <resultMetadata xmi:id="_tOS2iZZiEemRzcoMFIjDFQ"/>
+  </results>
+  <parameters xmi:id="_tOS2ipZiEemRzcoMFIjDFQ" analysisType="Multiple Column Analysis"/>
+</dataquality.analysis:Analysis>

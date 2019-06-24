@@ -1,13 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><TalendMetadata:DatabaseConnection xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:xmi="http://www.omg.org/XMI" AdditionalParams="" DatabaseType="Microsoft SQL Server" DatasourceName="" DbmsId="id_MSSQL" DriverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" FileFieldName="" NullChar="" Password="wLOaXXa2GijAI+Vmvc/kpg==" Port="1433" ProductId="SQL_SERVER" SID="IntelliManager" SQLMode="false" ServerName="devsql20.dev.local" SqlSynthax="" StandardSQL="true" StringQuote="" URL="jdbc:sqlserver://devsql20.dev.local:1433;DatabaseName=IntelliManager;" UiSchema="dbo" Username="s-talend" dbVersionString="MSSQL_PROP" id="_RrH1YJZiEemRzcoMFIjDFQ" label="IntelliManager" name="IntelliManager" xmi:id="_hUvOkJZiEemRzcoMFIjDFQ" xmi:version="2.0">
-  <taggedValue tag="Is Conn Need Reload" value="true" xmi:id="_hUvOkZZiEemRzcoMFIjDFQ"/>
-  <parameters key="CONN_PARA_KEY_USERNAME" value="s-talend" xmi:id="_hUvOkpZiEemRzcoMFIjDFQ"/>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_5ccdc803-5995-4100-a48b-69409b39c6d3"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>PaU1I43WzGdWslKYlC2lfyOnAAIb1dghY8sLZ77ge5yjmZoLyF57c9xt2C4rF7eaiQX334nigWrz
-WEN4T9L/MA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_392d7870-517c-4d31-b258-c485b65d38de"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>8qeGWSyl+krf5ZlUFrgQie4gIr31XGj9yUr0IzefturuIVkpY67tran/VnVipveq0Ht9Gds6H+5m
-DPKzfpUngw==</DigestValue></Reference></SignedInfo><SignatureValue>4gFdpEXcnO60OovQFjCI06XUOXcQj/+P9+ZEjxvmvTgtGE9eV0wKhYnOQJIw5hcd5QsHXdJDUlyP
-1irZYfGYg4brSVquQ24Ks9YgDoHZFhyOXMNS3pTr9ez+l3UhqW9+gBqQAkSVkEL1My8MXdJbL75p
-fjoaS9t4JrAfhilJJlmvJTM2Qye2u3Mg3abfH3YknNQmofmBc0L/VMJ6X0haea9HmFI5Aj1YCUbo
-vc857qzCNG4W8qEvO9hz2qcsBqJbKbjuajMMCKcsZtYM0OhSXciYp5CphPwYMLkxsuOP8CsMHUhk
-5GhTuup9kvVi0u68E/y7rZFVVB4zwFsoN70tGg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:version="2.0">
+  <TalendMetadata:DatabaseConnection AdditionalParams="" DatabaseType="Microsoft SQL Server" DatasourceName="" DbmsId="id_MSSQL" DriverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" FileFieldName="" NullChar="" Password="wLOaXXa2GijAI+Vmvc/kpg==" Port="1433" ProductId="SQL_SERVER" SID="IntelliManager" SQLMode="false" ServerName="devsql20.dev.local" SqlSynthax="" StandardSQL="true" StringQuote="" URL="jdbc:sqlserver://devsql20.dev.local:1433;DatabaseName=IntelliManager;" UiSchema="dbo" Username="s-talend" dataPackage="_hYUHAJZiEemRzcoMFIjDFQ" dbVersionString="MSSQL_PROP" id="_RrH1YJZiEemRzcoMFIjDFQ" label="IntelliManager" name="IntelliManager" xmi:id="_hUvOkJZiEemRzcoMFIjDFQ">
+    <taggedValue tag="Is Conn Need Reload" value="false" xmi:id="_hUvOkZZiEemRzcoMFIjDFQ"/>
+    <taggedValue tag="package filter" value="" xmi:id="_hXuRIJZiEemRzcoMFIjDFQ"/>
+    <taggedValue tag="Status" value="" xmi:id="_hXuRIZZiEemRzcoMFIjDFQ"/>
+    <taggedValue tag="Version" value="0.1" xmi:id="_hXuRIpZiEemRzcoMFIjDFQ"/>
+    <taggedValue tag="Purpose" value="" xmi:id="_hXuRI5ZiEemRzcoMFIjDFQ"/>
+    <taggedValue tag="Description" value="" xmi:id="_hXuRJJZiEemRzcoMFIjDFQ"/>
+    <taggedValue tag="Author" value="" xmi:id="_hXuRJZZiEemRzcoMFIjDFQ"/>
+    <taggedValue tag="otherParameter" xmi:id="_hXuRJpZiEemRzcoMFIjDFQ"/>
+    <taggedValue tag="DB ProductName" value="Microsoft SQL Server" xmi:id="_hX3bEJZiEemRzcoMFIjDFQ"/>
+    <taggedValue tag="DB ProductVersion" value="13.00.5292" xmi:id="_hX3bEZZiEemRzcoMFIjDFQ"/>
+    <taggedValue tag="DB IdentifierQuoteString" value="&quot;" xmi:id="_hX3bEpZiEemRzcoMFIjDFQ"/>
+    <parameters key="CONN_PARA_KEY_USERNAME" value="s-talend" xmi:id="_hUvOkpZiEemRzcoMFIjDFQ"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog dataManager="_hUvOkJZiEemRzcoMFIjDFQ" name="IntelliManager" xmi:id="_hYUHAJZiEemRzcoMFIjDFQ">
+    <ownedElement name="dbo" xmi:id="_hYUHAZZiEemRzcoMFIjDFQ" xsi:type="orgomg.cwm.resource.relational:Schema"/>
+  </orgomg.cwm.resource.relational:Catalog>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_e542b62e-9256-4623-b52f-6d58fecff238"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>velg2PxheeKTdnYDZcb5UeTPwvulWsctzRiOhLt5yjU4wkUgPMZ4r6UsNEkJW5D1jNmJutMcqFkf
+MHFUgGC1QA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_6c005eac-f260-4493-acd1-90379742bff6"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>WOVXXiA2lUyEDtqd5HGO2EgN+BIHWLR+oidqqSPth33ToH+M33UvRwT9WyddkIvr35UGQcNISlHD
+F1vrg2wHHg==</DigestValue></Reference></SignedInfo><SignatureValue>gW0sF0r0y/KMYaOLWKnveVY1nEJE9kKllRQzwoYNIQ6Dy2O2Sjy5iUrADjocm65kDX2cHfwr2ETr
+M3L+deTCsMx/Z3xBj5MbG2PFITwVgdgbtPOYsxaA7ts6WzMGXucLcbjdXNxio0/xUs5m33xYB7ty
+ElrrtpSJmjhqgusPrf2o4BvRYgK6nBORV43RfGafwBhFaP9RX1283rp2jZx4zBXRIljYMIKp0MRY
+hvfReYh5xzDQZBlamOjBtNc6J2jTsWFNUqlyvGSx4la6TyA74jSWNmUB1bn8OvlinXhq3C0d1LkH
+R4cC0M28hv790s9FncUoVdwFAd82m3O/e6oq4Q==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
 BVBhcmlzMQ4wDAYDVQQHDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1Im
 RDEWMBQGA1UEAwwNVGFsZW5kIFImRCBDQTEiMCAGCSqGSIb3DQEJARYTc2VjdXJpdHlAdGFsZW5k
 LmNvbTAeFw0xODAxMTgwMDA2MTJaFw0yMTAxMTcwMDA2MTJaMGwxCzAJBgNVBAYTAkZSMQ4wDAYD
@@ -31,4 +46,4 @@ r3/fbKJ02Ni9kCnkY8wQS1yn45UNl1woSjryza4f4uLKGkrrIsUPXK+Vy4A1Il8XgFfmrtgA8m9s
 EHyu0OyAJH/agWN+GLhF/ssp26oXhiYqTkG4sQtNRFQG0isaYf/JWSt3f8Q+7/pnZpz4mfEAFimI
 BBLzRwDA6x9qqOn0RXxBo9pH16EO3SXPLR64cJum8B/RI/i8H6OkQDO1tEiE6UeceZk++U7fnD3c
 6i9Km85GTgQi6REsVZGIL/tZNIzN//qPwi7cDo3Cf/xmPrIKQhHJaxCqmbjGDmC8AXOaqNfWotVX
-Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_392d7870-517c-4d31-b258-c485b65d38de" Target="#_5ccdc803-5995-4100-a48b-69409b39c6d3"><Timestamp>2019-06-24 09:29:09</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></TalendMetadata:DatabaseConnection>
+Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_6c005eac-f260-4493-acd1-90379742bff6" Target="#_e542b62e-9256-4623-b52f-6d58fecff238"><Timestamp>2019-06-24 09:29:10</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

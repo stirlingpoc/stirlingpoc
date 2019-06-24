@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:version="2.0">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore" xmlns:relational="http://www.talend.org/cwm/resource/relational/2010" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:version="2.0">
   <TalendMetadata:DatabaseConnection AdditionalParams="" DatabaseType="Microsoft SQL Server" DatasourceName="" DbmsId="id_MSSQL" DriverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" FileFieldName="" NullChar="" Password="wLOaXXa2GijAI+Vmvc/kpg==" Port="1433" ProductId="SQL_SERVER" SID="IntelliManager" SQLMode="false" ServerName="devsql20.dev.local" SqlSynthax="" StandardSQL="true" StringQuote="" URL="jdbc:sqlserver://devsql20.dev.local:1433;DatabaseName=IntelliManager;" UiSchema="dbo" Username="s-talend" dataPackage="_hYUHAJZiEemRzcoMFIjDFQ" dbVersionString="MSSQL_PROP" id="_RrH1YJZiEemRzcoMFIjDFQ" label="IntelliManager" name="IntelliManager" xmi:id="_hUvOkJZiEemRzcoMFIjDFQ">
     <taggedValue tag="Is Conn Need Reload" value="false" xmi:id="_hUvOkZZiEemRzcoMFIjDFQ"/>
     <taggedValue tag="package filter" value="" xmi:id="_hXuRIJZiEemRzcoMFIjDFQ"/>
@@ -14,15 +14,117 @@
     <parameters key="CONN_PARA_KEY_USERNAME" value="s-talend" xmi:id="_hUvOkpZiEemRzcoMFIjDFQ"/>
   </TalendMetadata:DatabaseConnection>
   <orgomg.cwm.resource.relational:Catalog dataManager="_hUvOkJZiEemRzcoMFIjDFQ" name="IntelliManager" xmi:id="_hYUHAJZiEemRzcoMFIjDFQ">
-    <ownedElement name="dbo" xmi:id="_hYUHAZZiEemRzcoMFIjDFQ" xsi:type="orgomg.cwm.resource.relational:Schema"/>
+    <ownedElement name="dbo" xmi:id="_hYUHAZZiEemRzcoMFIjDFQ" xsi:type="orgomg.cwm.resource.relational:Schema">
+      <ownedElement label="AccommodationCalendarView" name="AccommodationCalendarView" tableType="VIEW" xmi:id="_ikfmQJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Account_View" name="Account_View" tableType="VIEW" xmi:id="_ikfmQZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="AccountBalance_View" name="AccountBalance_View" tableType="VIEW" xmi:id="_ikfmQpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="AccountOSTransactions" name="AccountOSTransactions" tableType="VIEW" xmi:id="_ikfmQ5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="AccountOSTransactions_AsAT_Date" name="AccountOSTransactions_AsAT_Date" tableType="VIEW" xmi:id="_ikfmRJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="AccountOSTransactions_Simple" name="AccountOSTransactions_Simple" tableType="VIEW" xmi:id="_ikfmRZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="AccountTransaction_View" name="AccountTransaction_View" tableType="VIEW" xmi:id="_ikfmRpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="BookingInvoices" name="BookingInvoices" tableType="VIEW" xmi:id="_ikfmR5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="BookingLineDetail_StartDates_View" name="BookingLineDetail_StartDates_View" tableType="VIEW" xmi:id="_ikfmSJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="CashTills_View" name="CashTills_View" tableType="VIEW" xmi:id="_ikfmSZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ClientInvoice" name="ClientInvoice" tableType="VIEW" xmi:id="_ikfmSpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ClientLabelsReport_CalendarEntries" name="ClientLabelsReport_CalendarEntries" tableType="VIEW" xmi:id="_ikfmS5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ContractItems_MembershipView" name="ContractItems_MembershipView" tableType="VIEW" xmi:id="_ikfmTJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ContractItems_View" name="ContractItems_View" tableType="VIEW" xmi:id="_ikfmTZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ContractRecurringItems_View" name="ContractRecurringItems_View" tableType="VIEW" xmi:id="_ikfmTpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Courses_Dated" name="Courses_Dated" tableType="VIEW" xmi:id="_ikfmT5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ExerciseCategories_View" name="ExerciseCategories_View" tableType="VIEW" xmi:id="_ikfmUJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="FIO_InvoiceReport" name="FIO_InvoiceReport" tableType="VIEW" xmi:id="_ikfmUZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="FIO_Sessions" name="FIO_Sessions" tableType="VIEW" xmi:id="_ikfmUpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="GeneralCalendar_CalendarEntries" name="GeneralCalendar_CalendarEntries" tableType="VIEW" xmi:id="_ikfmU5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="GeneralCalendarView" name="GeneralCalendarView" tableType="VIEW" xmi:id="_ikfmVJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="GolfCalendarView" name="GolfCalendarView" tableType="VIEW" xmi:id="_ikfmVZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="HealthProfRosterBreakTimes" name="HealthProfRosterBreakTimes" tableType="VIEW" xmi:id="_ikfmVpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="HealthProfRosterTime" name="HealthProfRosterTime" tableType="VIEW" xmi:id="_ikfmV5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="InnerRangeInsightDoorPermissions_View" name="InnerRangeInsightDoorPermissions_View" tableType="VIEW" xmi:id="_ikfmWJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="LocationRosterBreakTimes" name="LocationRosterBreakTimes" tableType="VIEW" xmi:id="_ikfmWZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Memberships_View" name="Memberships_View" tableType="VIEW" xmi:id="_ikfmWpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Memberships_View_Cancelled_Completed" name="Memberships_View_Cancelled_Completed" tableType="VIEW" xmi:id="_ikfmW5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Memberships_View_With_Inactive" name="Memberships_View_With_Inactive" tableType="VIEW" xmi:id="_ikfmXJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Memberships_View_With_Inactive_Minimal" name="Memberships_View_With_Inactive_Minimal" tableType="VIEW" xmi:id="_ikfmXZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Account_View" name="NV_Account_View" tableType="VIEW" xmi:id="_ikfmXpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_AccountBalance_View" name="NV_AccountBalance_View" tableType="VIEW" xmi:id="_ikfmX5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_AllClients" name="NV_AllClients" tableType="VIEW" xmi:id="_ikfmYJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_AllProspects" name="NV_AllProspects" tableType="VIEW" xmi:id="_ikfmYZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_AllStaff" name="NV_AllStaff" tableType="VIEW" xmi:id="_ikfmYpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_AppointmentCompletions" name="NV_AppointmentCompletions" tableType="VIEW" xmi:id="_ikfmY5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_CheckinCount" name="NV_CheckinCount" tableType="VIEW" xmi:id="_ikfmZJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_CheckinDetail" name="NV_CheckinDetail" tableType="VIEW" xmi:id="_ikfmZZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_ChildProficiencies" name="NV_ChildProficiencies" tableType="VIEW" xmi:id="_ikfmZpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Children" name="NV_Children" tableType="VIEW" xmi:id="_ikfmZ5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Classes" name="NV_Classes" tableType="VIEW" xmi:id="_ikfmaJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_ClassInstanceParticipants" name="NV_ClassInstanceParticipants" tableType="VIEW" xmi:id="_ikfmaZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_ClassReminders" name="NV_ClassReminders" tableType="VIEW" xmi:id="_ikfmapZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_ContractItemScheduleClasses" name="NV_ContractItemScheduleClasses" tableType="VIEW" xmi:id="_ikfma5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Contracts" name="NV_Contracts" tableType="VIEW" xmi:id="_ikfmbJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_CorporateClients" name="NV_CorporateClients" tableType="VIEW" xmi:id="_ikfmbZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_CorporateProspects" name="NV_CorporateProspects" tableType="VIEW" xmi:id="_ikfmbpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_CourseParticipants" name="NV_CourseParticipants" tableType="VIEW" xmi:id="_ikfmb5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_CourseParticipants_MultiBookings" name="NV_CourseParticipants_MultiBookings" tableType="VIEW" xmi:id="_ikfmcJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_CourseParticipantsWithProficiencies" name="NV_CourseParticipantsWithProficiencies" tableType="VIEW" xmi:id="_ikfmcZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Invoices" name="NV_Invoices" tableType="VIEW" xmi:id="_ikfmcpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_MembershipContractsOnly" name="NV_MembershipContractsOnly" tableType="VIEW" xmi:id="_ikfmc5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Memberships_View" name="NV_Memberships_View" tableType="VIEW" xmi:id="_ikfmdJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Memberships_View_Cancelled_Completed" name="NV_Memberships_View_Cancelled_Completed" tableType="VIEW" xmi:id="_ikfmdZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_OnlineContractConfirmation" name="NV_OnlineContractConfirmation" tableType="VIEW" xmi:id="_ikfmdpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Parents" name="NV_Parents" tableType="VIEW" xmi:id="_ikfmd5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Parents_WithBalance" name="NV_Parents_WithBalance" tableType="VIEW" xmi:id="_ikfmeJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_PaymentAuthorities" name="NV_PaymentAuthorities" tableType="VIEW" xmi:id="_ikfmeZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_PaymentRunItems" name="NV_PaymentRunItems" tableType="VIEW" xmi:id="_ikfmepZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_PaymentVariations" name="NV_PaymentVariations" tableType="VIEW" xmi:id="_ikfme5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Receipts" name="NV_Receipts" tableType="VIEW" xmi:id="_ikfmfJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Referrals" name="NV_Referrals" tableType="VIEW" xmi:id="_ikfmfZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Sales" name="NV_Sales" tableType="VIEW" xmi:id="_ikfmfpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Sales_MemberProfessional_HealthProf" name="NV_Sales_MemberProfessional_HealthProf" tableType="VIEW" xmi:id="_ikfmf5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Sales_MemberProfessional_Member" name="NV_Sales_MemberProfessional_Member" tableType="VIEW" xmi:id="_ikfmgJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_Schedules" name="NV_Schedules" tableType="VIEW" xmi:id="_ikfmgZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_SwimSchoolParents" name="NV_SwimSchoolParents" tableType="VIEW" xmi:id="_ikfmgpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_UsersByBranch" name="NV_UsersByBranch" tableType="VIEW" xmi:id="_ikfmg5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_WebBookingConfirmation" name="NV_WebBookingConfirmation" tableType="VIEW" xmi:id="_ikfmhJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_WebMembershipSignupConfirmation" name="NV_WebMembershipSignupConfirmation" tableType="VIEW" xmi:id="_ikfmhZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NV_WebScheduleConfirmation" name="NV_WebScheduleConfirmation" tableType="VIEW" xmi:id="_ikfmhpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="PackagesMaintTree_View" name="PackagesMaintTree_View" tableType="VIEW" xmi:id="_ikfmh5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="PackagesTreeView" name="PackagesTreeView" tableType="VIEW" xmi:id="_ikfmiJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="PaymentAuthorityMaster_View" name="PaymentAuthorityMaster_View" tableType="VIEW" xmi:id="_ikfmiZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ProductsMaintTree_View" name="ProductsMaintTree_View" tableType="VIEW" xmi:id="_ikfmipZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ProductsTreeView" name="ProductsTreeView" tableType="VIEW" xmi:id="_ikfmi5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ProspectFullReport_Prospects" name="ProspectFullReport_Prospects" tableType="VIEW" xmi:id="_ikfmjJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Report_10_MembershipView" name="Report_10_MembershipView" tableType="VIEW" xmi:id="_ikfmjZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Report_149_View_Location_WithBreaks" name="Report_149_View_Location_WithBreaks" tableType="VIEW" xmi:id="_ikfmjpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Report_231_PaymentAuthority_View" name="Report_231_PaymentAuthority_View" tableType="VIEW" xmi:id="_ikfmj5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Report_5503_PaymentAuthority_View" name="Report_5503_PaymentAuthority_View" tableType="VIEW" xmi:id="_ikfmkJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Report_88" name="Report_88" tableType="VIEW" xmi:id="_ikfmkZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Report_CheckinStats" name="Report_CheckinStats" tableType="VIEW" xmi:id="_ikfmkpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Report_Courses_Description" name="Report_Courses_Description" tableType="VIEW" xmi:id="_ikfmk5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Report_Courses_RedCross" name="Report_Courses_RedCross" tableType="VIEW" xmi:id="_ikfmlJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Report_CourseTypes_Description" name="Report_CourseTypes_Description" tableType="VIEW" xmi:id="_ikfmlZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="Report_Dateperiods_Description" name="Report_Dateperiods_Description" tableType="VIEW" xmi:id="_ikfmlpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ReportGroups_View" name="ReportGroups_View" tableType="VIEW" xmi:id="_ikfml5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ReportPackageSales" name="ReportPackageSales" tableType="VIEW" xmi:id="_ikfmmJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="RP_UsersDuplicateMatches" name="RP_UsersDuplicateMatches" tableType="VIEW" xmi:id="_ikfmmZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="SchedulebyHealthProfReport" name="SchedulebyHealthProfReport" tableType="VIEW" xmi:id="_ikfmmpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ScheduleReportView_Client_WithBreaks" name="ScheduleReportView_Client_WithBreaks" tableType="VIEW" xmi:id="_ikfmm5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ScheduleReportView_HPTime" name="ScheduleReportView_HPTime" tableType="VIEW" xmi:id="_ikfmnJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ScheduleReportView_Location_WithBreaks" name="ScheduleReportView_Location_WithBreaks" tableType="VIEW" xmi:id="_ikfmnZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ScheduleReportView_LocationTime" name="ScheduleReportView_LocationTime" tableType="VIEW" xmi:id="_ikfmnpZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ScheduleReportView_Restaurant" name="ScheduleReportView_Restaurant" tableType="VIEW" xmi:id="_ikfmn5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ServicesMaintTree_View" name="ServicesMaintTree_View" tableType="VIEW" xmi:id="_ikfmoJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ServicesTreeView" name="ServicesTreeView" tableType="VIEW" xmi:id="_ikfmoZZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="SoftBrands_Transaction_View" name="SoftBrands_Transaction_View" tableType="VIEW" xmi:id="_ikfmopZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="UnrosteredScheduledBookings" name="UnrosteredScheduledBookings" tableType="VIEW" xmi:id="_ikfmo5ZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="UsersWithinHotelDates" name="UsersWithinHotelDates" tableType="VIEW" xmi:id="_ikfmpJZiEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+    </ownedElement>
   </orgomg.cwm.resource.relational:Catalog>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_e542b62e-9256-4623-b52f-6d58fecff238"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>velg2PxheeKTdnYDZcb5UeTPwvulWsctzRiOhLt5yjU4wkUgPMZ4r6UsNEkJW5D1jNmJutMcqFkf
-MHFUgGC1QA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_6c005eac-f260-4493-acd1-90379742bff6"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>WOVXXiA2lUyEDtqd5HGO2EgN+BIHWLR+oidqqSPth33ToH+M33UvRwT9WyddkIvr35UGQcNISlHD
-F1vrg2wHHg==</DigestValue></Reference></SignedInfo><SignatureValue>gW0sF0r0y/KMYaOLWKnveVY1nEJE9kKllRQzwoYNIQ6Dy2O2Sjy5iUrADjocm65kDX2cHfwr2ETr
-M3L+deTCsMx/Z3xBj5MbG2PFITwVgdgbtPOYsxaA7ts6WzMGXucLcbjdXNxio0/xUs5m33xYB7ty
-ElrrtpSJmjhqgusPrf2o4BvRYgK6nBORV43RfGafwBhFaP9RX1283rp2jZx4zBXRIljYMIKp0MRY
-hvfReYh5xzDQZBlamOjBtNc6J2jTsWFNUqlyvGSx4la6TyA74jSWNmUB1bn8OvlinXhq3C0d1LkH
-R4cC0M28hv790s9FncUoVdwFAd82m3O/e6oq4Q==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_349941f9-ad25-4dff-b722-d2f5d0f2dd8e"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>9MBeYiYvQaK3lANIlxx0rS61Tq2K/WnSh6KIz+1jqpd0QJASXhx3SfffaBmE5FW+9UOInD+sM1wr
+o0IN88LGNg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_19151a0b-bdd4-4da3-b7d2-4713405311cd"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>rkOkBiY/qhMw01XJUsSxOwx6vFayl8yEoKTH5KIlJbQt1NH3E5QqqlLiHNruyxHWAMSCcMSYtbKy
+gGmGmXze0A==</DigestValue></Reference></SignedInfo><SignatureValue>M5ESc3KAmeBlK5IbS1CHpH1fufKUjlpPaAlPxmHqjDz4fKrTbTFgFgAisjPwVfZt+awnark2EY/4
+WNjSRPsTqmvS8wkSDXvYyGsdnl+Q/lSQ3+AckcHn/hAbcGfbcb/owVt53SdI3KZ5zH0k59anpU0I
+YRCJSZIE6VwTPDCXTG3V5WlB246XGtdPq0BmGfHAPVyQrgYaS4gQZlzSw4zi+X771aVxYB0OLkG0
+djOmvy7KIyxnjwE3G966ZqboCBnu8WEnKdKQtlqrpEUKjlr+sk6dTBYYpwrhEhMR8WAXBbAoA5f0
+cALFovym71OffkOOWocyXp4hNgHcwih5V65wvA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
 BVBhcmlzMQ4wDAYDVQQHDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1Im
 RDEWMBQGA1UEAwwNVGFsZW5kIFImRCBDQTEiMCAGCSqGSIb3DQEJARYTc2VjdXJpdHlAdGFsZW5k
 LmNvbTAeFw0xODAxMTgwMDA2MTJaFw0yMTAxMTcwMDA2MTJaMGwxCzAJBgNVBAYTAkZSMQ4wDAYD
@@ -46,4 +148,4 @@ r3/fbKJ02Ni9kCnkY8wQS1yn45UNl1woSjryza4f4uLKGkrrIsUPXK+Vy4A1Il8XgFfmrtgA8m9s
 EHyu0OyAJH/agWN+GLhF/ssp26oXhiYqTkG4sQtNRFQG0isaYf/JWSt3f8Q+7/pnZpz4mfEAFimI
 BBLzRwDA6x9qqOn0RXxBo9pH16EO3SXPLR64cJum8B/RI/i8H6OkQDO1tEiE6UeceZk++U7fnD3c
 6i9Km85GTgQi6REsVZGIL/tZNIzN//qPwi7cDo3Cf/xmPrIKQhHJaxCqmbjGDmC8AXOaqNfWotVX
-Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_6c005eac-f260-4493-acd1-90379742bff6" Target="#_e542b62e-9256-4623-b52f-6d58fecff238"><Timestamp>2019-06-24 09:29:10</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
+Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_19151a0b-bdd4-4da3-b7d2-4713405311cd" Target="#_349941f9-ad25-4dff-b722-d2f5d0f2dd8e"><Timestamp>2019-06-24 09:29:18</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

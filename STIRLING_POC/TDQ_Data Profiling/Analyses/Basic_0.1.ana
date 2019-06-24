@@ -8,7 +8,7 @@
     <taggedValue xmi:id="_ChY9hJZfEemRzcoMFIjDFQ" tag="Description" value=""/>
     <taggedValue xmi:id="_ChY9hZZfEemRzcoMFIjDFQ" tag="Version" value="0.1"/>
     <taggedValue xmi:id="_hUdpIZZfEemRzcoMFIjDFQ" tag="ANA_LAST_RUN_CONTEXT" value="Default"/>
-    <taggedValue xmi:id="_hUdpIpZfEemRzcoMFIjDFQ" tag="PREVIEW_ROW_NUMBER" value="50"/>
+    <taggedValue xmi:id="_hUdpIpZfEemRzcoMFIjDFQ" tag="PREVIEW_ROW_NUMBER" value="0"/>
     <taggedValue xmi:id="_hUdpI5ZfEemRzcoMFIjDFQ" tag="NUMBER_OF_CONNECTIONS_PER_ANALYSIS" value="5"/>
     <taggedValue xmi:id="_hUdpjJZfEemRzcoMFIjDFQ" tag="Is Use Sample Data" value="false"/>
     <context xmi:id="_ChY9hpZfEemRzcoMFIjDFQ">
@@ -17,7 +17,7 @@
       <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfrpZaEemRzcoMFIjDFQ"/>
     </context>
     <results xmi:id="_ChY9h5ZfEemRzcoMFIjDFQ">
-      <resultMetadata xmi:id="_ChY9iJZfEemRzcoMFIjDFQ" executionDate="2019-06-24T17:10:40.259+0800" executionDuration="474" message="" executionNumber="1" lastRunOk="true" lastExecutionNumberOk="1"/>
+      <resultMetadata xmi:id="_ChY9iJZfEemRzcoMFIjDFQ" executionDate="2019-06-24T17:11:09.288+0800" executionDuration="415" message="" executionNumber="2" lastRunOk="true" lastExecutionNumberOk="2"/>
       <indicators xsi:type="dataquality.indicators:MaxLengthIndicator" xmi:id="_hUdpKZZfEemRzcoMFIjDFQ" nullCount="1" computed="true" length="10">
         <parameters xmi:id="_hUdpKpZfEemRzcoMFIjDFQ">
           <textParameter xmi:id="_hUdpK5ZfEemRzcoMFIjDFQ" useBlank="false"/>

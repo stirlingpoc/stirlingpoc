@@ -103,13 +103,6 @@
     </context>
     <results xmi:id="_ChY9h5ZfEemRzcoMFIjDFQ">
       <resultMetadata xmi:id="_ChY9iJZfEemRzcoMFIjDFQ"/>
-      <indicators xsi:type="dataquality.indicators:MinLengthIndicator" xmi:id="_hUdpJpZfEemRzcoMFIjDFQ">
-        <parameters xmi:id="_hUdpJ5ZfEemRzcoMFIjDFQ">
-          <textParameter xmi:id="_hUdpKJZfEemRzcoMFIjDFQ" useBlank="false"/>
-        </parameters>
-        <analyzedElement xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpflpZaEemRzcoMFIjDFQ"/>
-        <indicatorDefinition href="../../TDQ_Libraries/Indicators/System Indicators/Text Statistics/Minimal_Length_0.1.definition#_ccHq1BF2Ed2PKb6nEJEvhw"/>
-      </indicators>
       <indicators xsi:type="dataquality.indicators:MaxLengthIndicator" xmi:id="_hUdpKZZfEemRzcoMFIjDFQ">
         <parameters xmi:id="_hUdpKpZfEemRzcoMFIjDFQ">
           <textParameter xmi:id="_hUdpK5ZfEemRzcoMFIjDFQ" useBlank="false"/>

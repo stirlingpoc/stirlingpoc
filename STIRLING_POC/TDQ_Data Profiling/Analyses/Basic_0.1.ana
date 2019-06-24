@@ -13,126 +13,108 @@
     <taggedValue xmi:id="_hUdpjJZfEemRzcoMFIjDFQ" tag="Is Use Sample Data" value="false"/>
     <context xmi:id="_ChY9hpZfEemRzcoMFIjDFQ">
       <connection href="../../metadata/connections/DEVSQL20_0.1.item#_dRQWkJZYEemjfvgDKbtckw"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfkpZaEemRzcoMFIjDFQ"/>
       <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpflpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfmpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfnpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfopZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfppZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfqpZaEemRzcoMFIjDFQ"/>
       <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfrpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfspZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpftpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfupZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfvpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfwpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfxpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfypZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfzpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpf0pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpf1pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpf2pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpf3pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpf4pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpf5pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpf6pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpf7pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpf8pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpf9pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpf-pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpf_pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgApZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgBpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgCpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgDpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgEpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgFpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgGpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgHpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgIpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgJpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgKpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgLpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgMpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgNpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgOpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgPpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgQpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgRpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgSpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgTpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgUpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgVpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgWpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgXpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgYpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgZpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgapZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgbpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgcpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgdpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgepZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgfpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpggpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpghpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgipZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgjpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgkpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpglpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgmpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgnpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgopZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgppZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgqpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgrpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgspZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgtpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgupZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgvpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgwpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgxpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgypZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpgzpZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpg0pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpg1pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpg2pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpg3pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpg4pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpg5pZaEemRzcoMFIjDFQ"/>
-      <analysedElements xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpg6pZaEemRzcoMFIjDFQ"/>
     </context>
     <results xmi:id="_ChY9h5ZfEemRzcoMFIjDFQ">
-      <resultMetadata xmi:id="_ChY9iJZfEemRzcoMFIjDFQ"/>
-      <indicators xsi:type="dataquality.indicators:MaxLengthIndicator" xmi:id="_hUdpKZZfEemRzcoMFIjDFQ">
+      <resultMetadata xmi:id="_ChY9iJZfEemRzcoMFIjDFQ" executionDate="2019-06-24T17:10:40.259+0800" executionDuration="474" message="" executionNumber="1" lastRunOk="true" lastExecutionNumberOk="1"/>
+      <indicators xsi:type="dataquality.indicators:MaxLengthIndicator" xmi:id="_hUdpKZZfEemRzcoMFIjDFQ" nullCount="1" computed="true" length="10">
         <parameters xmi:id="_hUdpKpZfEemRzcoMFIjDFQ">
           <textParameter xmi:id="_hUdpK5ZfEemRzcoMFIjDFQ" useBlank="false"/>
         </parameters>
         <analyzedElement xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpflpZaEemRzcoMFIjDFQ"/>
         <indicatorDefinition href="../../TDQ_Libraries/Indicators/System Indicators/Text Statistics/Maximal_Length_0.1.definition#_ccHq1RF2Ed2PKb6nEJEvhw"/>
+        <instantiatedExpressions xsi:type="relational:TdExpression" xmi:id="_7-jtMJZfEemRzcoMFIjDFQ" body="SELECT MAX(LEN(&quot;NAME_TYPE_DESC&quot;)) FROM &quot;T1PRO&quot;.&quot;dbo&quot;.&quot;NUCNAME&quot; WHERE (&quot;NAME_TYPE_DESC&quot; IS NOT NULL ) AND (LTRIM(RTRIM(CASE WHEN &quot;NAME_TYPE_DESC&quot; IS NULL  THEN 'NULL TALEND' ELSE &quot;NAME_TYPE_DESC&quot; END)) &lt;> '' ) " language="Microsoft SQL Server"/>
+        <builtInIndicatorDefinition xmi:id="_79zfQJZfEemRzcoMFIjDFQ" name="Maximal Length" label="Maximal Length">
+          <taggedValue xmi:id="_79zfQZZfEemRzcoMFIjDFQ" tag="Description" value="computes the maximal length of a text field."/>
+          <taggedValue xmi:id="_79zfQpZfEemRzcoMFIjDFQ" tag="Purpose" value="evaluates the length of the longest textual record"/>
+          <sqlGenericExpression xmi:id="_79zfQ5ZfEemRzcoMFIjDFQ" body="SELECT MAX(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND (TRIM(IFNULL(&lt;%=__COLUMN_NAMES__%>,'NULL TALEND')) &lt;> '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="SQL"/>
+          <sqlGenericExpression xmi:id="_79zfRJZfEemRzcoMFIjDFQ" body="SELECT MAX( LENGTH(&lt;%=__COLUMN_NAMES__%>) ) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND (TRIM(NVL(&lt;%=__COLUMN_NAMES__%>,'NULL TALEND')) IS NOT NULL) &lt;%=__AND_WHERE_CLAUSE__%>" language="Oracle" modificationDate=""/>
+          <sqlGenericExpression xmi:id="_79zfRZZfEemRzcoMFIjDFQ" body="SELECT MAX(LEN(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND (LTRIM(RTRIM(CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END)) &lt;> '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Microsoft SQL Server"/>
+          <sqlGenericExpression xmi:id="_79zfRpZfEemRzcoMFIjDFQ" body="SELECT MAX(LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="DB2"/>
+          <sqlGenericExpression xmi:id="_79zfR5ZfEemRzcoMFIjDFQ" body="SELECT MAX(LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Ingres"/>
+          <sqlGenericExpression xmi:id="_79zfSJZfEemRzcoMFIjDFQ" body="SELECT MAX(LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="SQLite"/>
+          <sqlGenericExpression xmi:id="_79zfSZZfEemRzcoMFIjDFQ" body="SELECT MAX(LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Hive" modificationDate=""/>
+          <sqlGenericExpression xmi:id="_79zfSpZfEemRzcoMFIjDFQ" body="SELECT MAX(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%>  WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Teradata"/>
+          <sqlGenericExpression xmi:id="_79zfS5ZfEemRzcoMFIjDFQ" body="SELECT MAX(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%>  WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( LTRIM(RTRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END ))  &lt;>  '' )  &lt;%=__AND_WHERE_CLAUSE__%>" language="Adaptive Server Enterprise | Sybase Adaptive Server IQ"/>
+          <sqlGenericExpression xmi:id="_79zfTJZfEemRzcoMFIjDFQ" body="SELECT MAX(CHAR_LENGTH( &lt;%=__COLUMN_NAMES__%> )) FROM  &lt;%=__TABLE_NAME__%>   WHERE ( &lt;%=__COLUMN_NAMES__%>  IS NOT NULL ) AND ( TRIM( CASE WHEN  &lt;%=__COLUMN_NAMES__%>  IS NULL  THEN 'NULL TALEND' ELSE  &lt;%=__COLUMN_NAMES__%>  END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Informix"/>
+          <sqlGenericExpression xmi:id="_79zfTZZfEemRzcoMFIjDFQ" body="SELECT MAX(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%>  WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="PostgreSQL"/>
+          <sqlGenericExpression xmi:id="_79zfTpZfEemRzcoMFIjDFQ" body="SELECT MAX(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND (TRIM(ISNULL(&lt;%=__COLUMN_NAMES__%>,'NULL TALEND')) &lt;> '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Netezza"/>
+        </builtInIndicatorDefinition>
       </indicators>
-      <indicators xsi:type="dataquality.indicators:BlankCountIndicator" xmi:id="_hUdpLJZfEemRzcoMFIjDFQ">
+      <indicators xsi:type="dataquality.indicators:BlankCountIndicator" xmi:id="_hUdpLJZfEemRzcoMFIjDFQ" nullCount="1" computed="true">
         <parameters xmi:id="_hUdpLZZfEemRzcoMFIjDFQ"/>
         <analyzedElement xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpflpZaEemRzcoMFIjDFQ"/>
         <indicatorDefinition href="../../TDQ_Libraries/Indicators/System Indicators/Simple Statistics/Blank_Count_0.1.definition#_ccHq0xF2Ed2PKb6nEJEvhw"/>
+        <instantiatedExpressions xsi:type="relational:TdExpression" xmi:id="_7-jtMZZfEemRzcoMFIjDFQ" body="SELECT COUNT(&quot;NAME_TYPE_DESC&quot;) FROM &quot;T1PRO&quot;.&quot;dbo&quot;.&quot;NUCNAME&quot;  WHERE LTRIM(RTRIM(&quot;NAME_TYPE_DESC&quot;)) = '' " language="Microsoft SQL Server"/>
+        <builtInIndicatorDefinition xmi:id="_799QQJZfEemRzcoMFIjDFQ" name="Blank Count" label="Blank Count">
+          <taggedValue xmi:id="_799QQZZfEemRzcoMFIjDFQ" tag="Description" value="counts the number of blank rows. A blank is a non null textual data that contains only white spaces (or nothing). Note that Oracle does not distinguish between the empty string and the null value"/>
+          <taggedValue xmi:id="_799QQpZfEemRzcoMFIjDFQ" tag="Purpose" value="evaluates the number of blank records"/>
+          <sqlGenericExpression xmi:id="_799QQ5ZfEemRzcoMFIjDFQ" body="SELECT COUNT(&lt;%=__COLUMN_NAMES__%>) FROM &lt;%=__TABLE_NAME__%> WHERE TRIM(&lt;%=__COLUMN_NAMES__%>) = '' &lt;%=__AND_WHERE_CLAUSE__%>" language="SQL"/>
+          <sqlGenericExpression xmi:id="_799QRJZfEemRzcoMFIjDFQ" body="SELECT COUNT(&lt;%=__COLUMN_NAMES__%>) FROM &lt;%=__TABLE_NAME__%>  WHERE TRIM(&lt;%=__COLUMN_NAMES__%>) IS NULL &lt;%=__AND_WHERE_CLAUSE__%>" language="Oracle"/>
+          <sqlGenericExpression xmi:id="_799QRZZfEemRzcoMFIjDFQ" body="SELECT COUNT(&lt;%=__COLUMN_NAMES__%>) FROM &lt;%=__TABLE_NAME__%>  WHERE LTRIM(RTRIM(&lt;%=__COLUMN_NAMES__%>)) = '' &lt;%=__AND_WHERE_CLAUSE__%>" language="DB2"/>
+          <sqlGenericExpression xmi:id="_799QRpZfEemRzcoMFIjDFQ" body="SELECT COUNT(&lt;%=__COLUMN_NAMES__%>) FROM &lt;%=__TABLE_NAME__%>  WHERE LTRIM(RTRIM(&lt;%=__COLUMN_NAMES__%>)) = '' &lt;%=__AND_WHERE_CLAUSE__%>" language="Microsoft SQL Server"/>
+          <sqlGenericExpression xmi:id="_799QR5ZfEemRzcoMFIjDFQ" body="SELECT COUNT(&lt;%=__COLUMN_NAMES__%>) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> = '' or RTRIM(LTRIM(&lt;%=__COLUMN_NAMES__%>)) = '') &lt;%=__AND_WHERE_CLAUSE__%>" language="Adaptive Server Enterprise | Sybase Adaptive Server IQ"/>
+        </builtInIndicatorDefinition>
       </indicators>
-      <indicators xsi:type="dataquality.indicators:NullCountIndicator" xmi:id="_hUdpLpZfEemRzcoMFIjDFQ">
+      <indicators xsi:type="dataquality.indicators:NullCountIndicator" xmi:id="_hUdpLpZfEemRzcoMFIjDFQ" nullCount="1" computed="true">
         <parameters xmi:id="_hUdpL5ZfEemRzcoMFIjDFQ"/>
         <analyzedElement xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpflpZaEemRzcoMFIjDFQ"/>
         <indicatorDefinition href="../../TDQ_Libraries/Indicators/System Indicators/Simple Statistics/Null_Count_0.1.definition#_GrAeADh9Ed2XmO7pl5Yuyg"/>
+        <instantiatedExpressions xsi:type="relational:TdExpression" xmi:id="_7-jtMpZfEemRzcoMFIjDFQ" body="SELECT COUNT(*) FROM &quot;T1PRO&quot;.&quot;dbo&quot;.&quot;NUCNAME&quot; WHERE &quot;NAME_TYPE_DESC&quot; IS NULL " language="Microsoft SQL Server"/>
+        <builtInIndicatorDefinition xmi:id="_7-HBQJZfEemRzcoMFIjDFQ" name="Null Count" label="Null Count">
+          <taggedValue xmi:id="_7-HBQZZfEemRzcoMFIjDFQ" tag="Purpose" value="evaluate the number of missing data (null records)"/>
+          <taggedValue xmi:id="_7-HBQpZfEemRzcoMFIjDFQ" tag="Description" value="counts the number of null rows"/>
+          <sqlGenericExpression xmi:id="_7-HBQ5ZfEemRzcoMFIjDFQ" body="SELECT COUNT(*) FROM &lt;%=__TABLE_NAME__%> WHERE &lt;%=__COLUMN_NAMES__%> IS NULL &lt;%=__AND_WHERE_CLAUSE__%>" language="SQL"/>
+        </builtInIndicatorDefinition>
       </indicators>
-      <indicators xsi:type="dataquality.indicators:MinLengthIndicator" xmi:id="_hUdpNpZfEemRzcoMFIjDFQ">
+      <indicators xsi:type="dataquality.indicators:MinLengthIndicator" xmi:id="_hUdpNpZfEemRzcoMFIjDFQ" computed="true" length="1">
         <parameters xmi:id="_hUdpN5ZfEemRzcoMFIjDFQ">
           <textParameter xmi:id="_hUdpOJZfEemRzcoMFIjDFQ" useBlank="false"/>
         </parameters>
         <analyzedElement xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfrpZaEemRzcoMFIjDFQ"/>
         <indicatorDefinition href="../../TDQ_Libraries/Indicators/System Indicators/Text Statistics/Minimal_Length_0.1.definition#_ccHq1BF2Ed2PKb6nEJEvhw"/>
+        <instantiatedExpressions xsi:type="relational:TdExpression" xmi:id="_7-jtM5ZfEemRzcoMFIjDFQ" body="SELECT MIN(LEN(&quot;AUSTRALIAN_COMPANY_NUMBER&quot;)) FROM &quot;T1PRO&quot;.&quot;dbo&quot;.&quot;NUCNAME&quot; WHERE (&quot;AUSTRALIAN_COMPANY_NUMBER&quot; IS NOT NULL ) AND (LTRIM(RTRIM(CASE WHEN &quot;AUSTRALIAN_COMPANY_NUMBER&quot; IS NULL  THEN 'NULL TALEND' ELSE &quot;AUSTRALIAN_COMPANY_NUMBER&quot; END)) &lt;> '' ) " language="Microsoft SQL Server"/>
+        <builtInIndicatorDefinition xmi:id="_7-QLMJZfEemRzcoMFIjDFQ" name="Minimal Length" label="Minimal Length">
+          <taggedValue xmi:id="_7-QLMZZfEemRzcoMFIjDFQ" tag="Description" value="computes the minimal length of a text field. Does not take into account the null values when computing the minimal length."/>
+          <taggedValue xmi:id="_7-QLMpZfEemRzcoMFIjDFQ" tag="Purpose" value="evaluates the length of the smallest textual record"/>
+          <sqlGenericExpression xmi:id="_7-QLM5ZfEemRzcoMFIjDFQ" body="SELECT MIN(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND (TRIM(IFNULL(&lt;%=__COLUMN_NAMES__%>,'NULL TALEND')) &lt;> '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="SQL"/>
+          <sqlGenericExpression xmi:id="_7-QLNJZfEemRzcoMFIjDFQ" body="SELECT MIN( LENGTH(&lt;%=__COLUMN_NAMES__%>) ) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND (TRIM(NVL(&lt;%=__COLUMN_NAMES__%>,'NULL TALEND')) IS NOT NULL) &lt;%=__AND_WHERE_CLAUSE__%>" language="Oracle"/>
+          <sqlGenericExpression xmi:id="_7-QLNZZfEemRzcoMFIjDFQ" body="SELECT MIN(LEN(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND (LTRIM(RTRIM(CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END)) &lt;> '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Microsoft SQL Server"/>
+          <sqlGenericExpression xmi:id="_7-QLNpZfEemRzcoMFIjDFQ" body="SELECT MIN(LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="DB2"/>
+          <sqlGenericExpression xmi:id="_7-QLN5ZfEemRzcoMFIjDFQ" body="SELECT MIN(LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Ingres"/>
+          <sqlGenericExpression xmi:id="_7-QLOJZfEemRzcoMFIjDFQ" body="SELECT MIN(LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="SQLite"/>
+          <sqlGenericExpression xmi:id="_7-QLOZZfEemRzcoMFIjDFQ" body="SELECT MIN(LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Hive"/>
+          <sqlGenericExpression xmi:id="_7-QLOpZfEemRzcoMFIjDFQ" body="SELECT MIN(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%>  WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Teradata"/>
+          <sqlGenericExpression xmi:id="_7-QLO5ZfEemRzcoMFIjDFQ" body="SELECT MIN(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%>  WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( LTRIM(RTRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END ))  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Adaptive Server Enterprise | Sybase Adaptive Server IQ"/>
+          <sqlGenericExpression xmi:id="_7-QLPJZfEemRzcoMFIjDFQ" body="SELECT MIN(CHAR_LENGTH( &lt;%=__COLUMN_NAMES__%> )) FROM  &lt;%=__TABLE_NAME__%>   WHERE ( &lt;%=__COLUMN_NAMES__%>  IS NOT NULL ) AND ( TRIM( CASE WHEN  &lt;%=__COLUMN_NAMES__%>  IS NULL  THEN 'NULL TALEND' ELSE  &lt;%=__COLUMN_NAMES__%>  END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Informix"/>
+          <sqlGenericExpression xmi:id="_7-QLPZZfEemRzcoMFIjDFQ" body="SELECT MIN(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%>  WHERE (1=1) AND (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="PostgreSQL"/>
+          <sqlGenericExpression xmi:id="_7-QLPpZfEemRzcoMFIjDFQ" body="SELECT MIN(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND (TRIM(ISNULL(&lt;%=__COLUMN_NAMES__%>,'NULL TALEND')) &lt;> '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Netezza"/>
+        </builtInIndicatorDefinition>
       </indicators>
-      <indicators xsi:type="dataquality.indicators:MaxLengthIndicator" xmi:id="_hUdpOZZfEemRzcoMFIjDFQ">
+      <indicators xsi:type="dataquality.indicators:MaxLengthIndicator" xmi:id="_hUdpOZZfEemRzcoMFIjDFQ" computed="true" length="13">
         <parameters xmi:id="_hUdpOpZfEemRzcoMFIjDFQ">
           <textParameter xmi:id="_hUdpO5ZfEemRzcoMFIjDFQ" useBlank="false"/>
         </parameters>
         <analyzedElement xsi:type="relational:TdColumn" href="../../metadata/connections/DEVSQL20_0.1.item#_uIpfrpZaEemRzcoMFIjDFQ"/>
         <indicatorDefinition href="../../TDQ_Libraries/Indicators/System Indicators/Text Statistics/Maximal_Length_0.1.definition#_ccHq1RF2Ed2PKb6nEJEvhw"/>
+        <instantiatedExpressions xsi:type="relational:TdExpression" xmi:id="_7-jtNJZfEemRzcoMFIjDFQ" body="SELECT MAX(LEN(&quot;AUSTRALIAN_COMPANY_NUMBER&quot;)) FROM &quot;T1PRO&quot;.&quot;dbo&quot;.&quot;NUCNAME&quot; WHERE (&quot;AUSTRALIAN_COMPANY_NUMBER&quot; IS NOT NULL ) AND (LTRIM(RTRIM(CASE WHEN &quot;AUSTRALIAN_COMPANY_NUMBER&quot; IS NULL  THEN 'NULL TALEND' ELSE &quot;AUSTRALIAN_COMPANY_NUMBER&quot; END)) &lt;> '' ) " language="Microsoft SQL Server"/>
+        <builtInIndicatorDefinition xmi:id="_7-Z8MJZfEemRzcoMFIjDFQ" name="Maximal Length" label="Maximal Length">
+          <taggedValue xmi:id="_7-Z8MZZfEemRzcoMFIjDFQ" tag="Description" value="computes the maximal length of a text field."/>
+          <taggedValue xmi:id="_7-Z8MpZfEemRzcoMFIjDFQ" tag="Purpose" value="evaluates the length of the longest textual record"/>
+          <sqlGenericExpression xmi:id="_7-Z8M5ZfEemRzcoMFIjDFQ" body="SELECT MAX(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND (TRIM(IFNULL(&lt;%=__COLUMN_NAMES__%>,'NULL TALEND')) &lt;> '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="SQL"/>
+          <sqlGenericExpression xmi:id="_7-Z8NJZfEemRzcoMFIjDFQ" body="SELECT MAX( LENGTH(&lt;%=__COLUMN_NAMES__%>) ) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND (TRIM(NVL(&lt;%=__COLUMN_NAMES__%>,'NULL TALEND')) IS NOT NULL) &lt;%=__AND_WHERE_CLAUSE__%>" language="Oracle" modificationDate=""/>
+          <sqlGenericExpression xmi:id="_7-Z8NZZfEemRzcoMFIjDFQ" body="SELECT MAX(LEN(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND (LTRIM(RTRIM(CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END)) &lt;> '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Microsoft SQL Server"/>
+          <sqlGenericExpression xmi:id="_7-Z8NpZfEemRzcoMFIjDFQ" body="SELECT MAX(LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="DB2"/>
+          <sqlGenericExpression xmi:id="_7-Z8N5ZfEemRzcoMFIjDFQ" body="SELECT MAX(LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Ingres"/>
+          <sqlGenericExpression xmi:id="_7-Z8OJZfEemRzcoMFIjDFQ" body="SELECT MAX(LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="SQLite"/>
+          <sqlGenericExpression xmi:id="_7-Z8OZZfEemRzcoMFIjDFQ" body="SELECT MAX(LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Hive" modificationDate=""/>
+          <sqlGenericExpression xmi:id="_7-Z8OpZfEemRzcoMFIjDFQ" body="SELECT MAX(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%>  WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Teradata"/>
+          <sqlGenericExpression xmi:id="_7-Z8O5ZfEemRzcoMFIjDFQ" body="SELECT MAX(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%>  WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( LTRIM(RTRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END ))  &lt;>  '' )  &lt;%=__AND_WHERE_CLAUSE__%>" language="Adaptive Server Enterprise | Sybase Adaptive Server IQ"/>
+          <sqlGenericExpression xmi:id="_7-Z8PJZfEemRzcoMFIjDFQ" body="SELECT MAX(CHAR_LENGTH( &lt;%=__COLUMN_NAMES__%> )) FROM  &lt;%=__TABLE_NAME__%>   WHERE ( &lt;%=__COLUMN_NAMES__%>  IS NOT NULL ) AND ( TRIM( CASE WHEN  &lt;%=__COLUMN_NAMES__%>  IS NULL  THEN 'NULL TALEND' ELSE  &lt;%=__COLUMN_NAMES__%>  END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Informix"/>
+          <sqlGenericExpression xmi:id="_7-Z8PZZfEemRzcoMFIjDFQ" body="SELECT MAX(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%>  WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND ( TRIM( CASE WHEN &lt;%=__COLUMN_NAMES__%> IS NULL  THEN 'NULL TALEND' ELSE &lt;%=__COLUMN_NAMES__%> END )  &lt;>  '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="PostgreSQL"/>
+          <sqlGenericExpression xmi:id="_7-Z8PpZfEemRzcoMFIjDFQ" body="SELECT MAX(CHAR_LENGTH(&lt;%=__COLUMN_NAMES__%>)) FROM &lt;%=__TABLE_NAME__%> WHERE (&lt;%=__COLUMN_NAMES__%> IS NOT NULL ) AND (TRIM(ISNULL(&lt;%=__COLUMN_NAMES__%>,'NULL TALEND')) &lt;> '' ) &lt;%=__AND_WHERE_CLAUSE__%>" language="Netezza"/>
+        </builtInIndicatorDefinition>
       </indicators>
     </results>
     <parameters xmi:id="_ChY9iZZfEemRzcoMFIjDFQ" dataFilter="_hUnaIJZfEemRzcoMFIjDFQ" analysisType="Multiple Column Analysis"/>

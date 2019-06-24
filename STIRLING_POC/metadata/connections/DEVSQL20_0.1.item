@@ -1731,6 +1731,215 @@
           <sqlDataType javaDataType="12" name="VARCHAR" nullable="columnNullable" xmi:id="_xIWy5ZZaEemRzcoMFIjDFQ"/>
         </feature>
       </ownedElement>
+      <ownedElement label="aniDetailsView" name="aniDetailsView" tableType="VIEW" xmi:id="_Em4qYJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="aniLicNoView" name="aniLicNoView" tableType="VIEW" xmi:id="_Em4qYZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="aniMasterOnlyView" name="aniMasterOnlyView" tableType="VIEW" xmi:id="_Em4qYpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="aniMasterOwnerView" name="aniMasterOwnerView" tableType="VIEW" xmi:id="_Em4qY5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="aniMasterView" name="aniMasterView" tableType="VIEW" xmi:id="_Em4qZJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="aniRegisteredView" name="aniRegisteredView" tableType="VIEW" xmi:id="_Em4qZZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="aniUnRegisteredView" name="aniUnRegisteredView" tableType="VIEW" xmi:id="_Em4qZpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="aniUnregLocView" name="aniUnregLocView" tableType="VIEW" xmi:id="_Em4qZ5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="crmPropertyAddressView" name="crmPropertyAddressView" tableType="VIEW" xmi:id="_Em4qaJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="crmPropertyNameAddressView" name="crmPropertyNameAddressView" tableType="VIEW" xmi:id="_Em4qaZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="debAgedBalanceReportView" name="debAgedBalanceReportView" tableType="VIEW" xmi:id="_Em4qapZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="debNamesView" name="debNamesView" tableType="VIEW" xmi:id="_Em4qa5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="dirSysProtectsView" name="dirSysProtectsView" tableType="VIEW" xmi:id="_Em4qbJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="dirUsersAndGroupsView" name="dirUsersAndGroupsView" tableType="VIEW" xmi:id="_Em4qbZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="dirWorkgroupResourceView" name="dirWorkgroupResourceView" tableType="VIEW" xmi:id="_Em4qbpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="epyPaymentItemView" name="epyPaymentItemView" tableType="VIEW" xmi:id="_Em4qb5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="epyPaymentMsgView" name="epyPaymentMsgView" tableType="VIEW" xmi:id="_Em4qcJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="epyPaymentView" name="epyPaymentView" tableType="VIEW" xmi:id="_Em4qcZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="eruCartAppView" name="eruCartAppView" tableType="VIEW" xmi:id="_Em4qcpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="eruWSFieldMappingView" name="eruWSFieldMappingView" tableType="VIEW" xmi:id="_Em4qc5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="etrApplicationDataATDISView" name="etrApplicationDataATDISView" tableType="VIEW" xmi:id="_Em4qdJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="evtBookingView" name="evtBookingView" tableType="VIEW" xmi:id="_Em4qdZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="filTablesAuthListView" name="filTablesAuthListView" tableType="VIEW" xmi:id="_Em4qdpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="infHeaderNucView" name="infHeaderNucView" tableType="VIEW" xmi:id="_Em4qd5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="infHeaderView" name="infHeaderView" tableType="VIEW" xmi:id="_Em4qeJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="infSecureOffenderView" name="infSecureOffenderView" tableType="VIEW" xmi:id="_Em4qeZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="infVicDoJView" name="infVicDoJView" tableType="VIEW" xmi:id="_Em4qepZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="mobEnqAnimalNameView" name="mobEnqAnimalNameView" tableType="VIEW" xmi:id="_Em4qe5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="mobEnqAnimalPropertyView" name="mobEnqAnimalPropertyView" tableType="VIEW" xmi:id="_Em4qfJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="mobEnqAnimalView" name="mobEnqAnimalView" tableType="VIEW" xmi:id="_Em4qfZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="mobEnqLandApplicationView" name="mobEnqLandApplicationView" tableType="VIEW" xmi:id="_Em4qfpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="mobEnqNameView" name="mobEnqNameView" tableType="VIEW" xmi:id="_Em4qf5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="mobEnqPropertyApplicationView" name="mobEnqPropertyApplicationView" tableType="VIEW" xmi:id="_Em4qgJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="mobEnqPropertyLandApplicationView" name="mobEnqPropertyLandApplicationView" tableType="VIEW" xmi:id="_Em4qgZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="mobEnqPropertyLandView" name="mobEnqPropertyLandView" tableType="VIEW" xmi:id="_Em4qgpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="mobEnqPropertyNameView" name="mobEnqPropertyNameView" tableType="VIEW" xmi:id="_Em4qg5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="notInterfaceExt" name="notInterfaceExt" tableType="VIEW" xmi:id="_Em4qhJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="notInterfaceView" name="notInterfaceView" tableType="VIEW" xmi:id="_Em4qhZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="notWTMAustDetailView" name="notWTMAustDetailView" tableType="VIEW" xmi:id="_Em4qhpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="NSW_BPBView" name="NSW_BPBView" tableType="VIEW" xmi:id="_Em4qh5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucAddressExtractView" name="nucAddressExtractView" tableType="VIEW" xmi:id="_Em4qiJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucAddressView" name="nucAddressView" tableType="VIEW" xmi:id="_Em4qiZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucAliasSummaryView" name="nucAliasSummaryView" tableType="VIEW" xmi:id="_Em4qipZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucAliasView" name="nucAliasView" tableType="VIEW" xmi:id="_Em4qi5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucAssociationView" name="nucAssociationView" tableType="VIEW" xmi:id="_Em4qjJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucAttributeSummaryView" name="nucAttributeSummaryView" tableType="VIEW" xmi:id="_Em4qjZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucAttributeView" name="nucAttributeView" tableType="VIEW" xmi:id="_Em4qjpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeAdjustmentView" name="nucChargeAdjustmentView" tableType="VIEW" xmi:id="_Em4qj5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeDueView" name="nucChargeDueView" tableType="VIEW" xmi:id="_Em4qkJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeESLArrearsView" name="nucChargeESLArrearsView" tableType="VIEW" xmi:id="_Em4qkZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeESLDeferredView" name="nucChargeESLDeferredView" tableType="VIEW" xmi:id="_Em4qkpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeESLEOYView" name="nucChargeESLEOYView" tableType="VIEW" xmi:id="_Em4qk5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeESLPenaltyRaisedView" name="nucChargeESLPenaltyRaisedView" tableType="VIEW" xmi:id="_Em4qlJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeESLPenaltyView" name="nucChargeESLPenaltyView" tableType="VIEW" xmi:id="_Em4qlZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeESLView" name="nucChargeESLView" tableType="VIEW" xmi:id="_Em4qlpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeESLViewOptionB" name="nucChargeESLViewOptionB" tableType="VIEW" xmi:id="_Em4ql5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeInterestView" name="nucChargeInterestView" tableType="VIEW" xmi:id="_Em4qmJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeIssueView" name="nucChargeIssueView" tableType="VIEW" xmi:id="_Em4qmZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeRunStatsView" name="nucChargeRunStatsView" tableType="VIEW" xmi:id="_Em4qmpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeRunView" name="nucChargeRunView" tableType="VIEW" xmi:id="_Em4qm5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranAccumRevView" name="nucChargeTranAccumRevView" tableType="VIEW" xmi:id="_Em4qnJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranAccumView" name="nucChargeTranAccumView" tableType="VIEW" xmi:id="_Em4qnZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranESLAdjustView" name="nucChargeTranESLAdjustView" tableType="VIEW" xmi:id="_Em4qnpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranESLPenaltyMonthlyView" name="nucChargeTranESLPenaltyMonthlyView" tableType="VIEW" xmi:id="_Em4qn5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranESLPenaltyReceiptEOYView" name="nucChargeTranESLPenaltyReceiptEOYView" tableType="VIEW" xmi:id="_Em4qoJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranESLPenaltyView" name="nucChargeTranESLPenaltyView" tableType="VIEW" xmi:id="_Em4qoZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranESLRebateMonthlyView" name="nucChargeTranESLRebateMonthlyView" tableType="VIEW" xmi:id="_Em4qopZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranESLRebateView" name="nucChargeTranESLRebateView" tableType="VIEW" xmi:id="_Em4qo5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranESLReceiptEOYView" name="nucChargeTranESLReceiptEOYView" tableType="VIEW" xmi:id="_Em4qpJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranESLReceiptMonthlyView" name="nucChargeTranESLReceiptMonthlyView" tableType="VIEW" xmi:id="_Em4qpZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranESLWriteoffView" name="nucChargeTranESLWriteoffView" tableType="VIEW" xmi:id="_Em4qppZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTransactionView" name="nucChargeTransactionView" tableType="VIEW" xmi:id="_Em4qp5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranTaxView" name="nucChargeTranTaxView" tableType="VIEW" xmi:id="_Em4qqJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranWithTax_1View" name="nucChargeTranWithTax_1View" tableType="VIEW" xmi:id="_Em4qqZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChargeTranwithTaxView" name="nucChargeTranwithTaxView" tableType="VIEW" xmi:id="_Em4qqpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucChildPropSummaryView" name="nucChildPropSummaryView" tableType="VIEW" xmi:id="_Em4qq5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucConditionView" name="nucConditionView" tableType="VIEW" xmi:id="_Em4qrJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucCorpOne_01View" name="nucCorpOne_01View" tableType="VIEW" xmi:id="_Em4qrZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucEventBulkProcessView" name="nucEventBulkProcessView" tableType="VIEW" xmi:id="_Em4qrpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucEventEDCView" name="nucEventEDCView" tableType="VIEW" xmi:id="_Em4qr5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucEventMaintenanceAuthLevel1View" name="nucEventMaintenanceAuthLevel1View" tableType="VIEW" xmi:id="_Em4qsJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucGLAccPostingCtrlChargeCtrlView" name="nucGLAccPostingCtrlChargeCtrlView" tableType="VIEW" xmi:id="_Em4qsZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucGLAccPostingCtrlTransDescView" name="nucGLAccPostingCtrlTransDescView" tableType="VIEW" xmi:id="_Em4qspZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucJNLAuthJournalClassView" name="nucJNLAuthJournalClassView" tableType="VIEW" xmi:id="_Em4qs5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucMemoDescriptionView" name="nucMemoDescriptionView" tableType="VIEW" xmi:id="_Em4qtJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucMemoSummaryView" name="nucMemoSummaryView" tableType="VIEW" xmi:id="_Em4qtZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucMemoView" name="nucMemoView" tableType="VIEW" xmi:id="_Em4qtpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucMemoViewNoChecks" name="nucMemoViewNoChecks" tableType="VIEW" xmi:id="_Em4qt5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucNameAmalgamationView" name="nucNameAmalgamationView" tableType="VIEW" xmi:id="_Em4quJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucNameDevelopersView" name="nucNameDevelopersView" tableType="VIEW" xmi:id="_Em4quZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucNameInvoiceView" name="nucNameInvoiceView" tableType="VIEW" xmi:id="_Em4qupZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucPropertyAddressAltAddrView" name="nucPropertyAddressAltAddrView" tableType="VIEW" xmi:id="_Em4qu5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucPropertyAddressView" name="nucPropertyAddressView" tableType="VIEW" xmi:id="_Em4qvJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucPropertyAddressWithAltAddrView" name="nucPropertyAddressWithAltAddrView" tableType="VIEW" xmi:id="_Em4qvZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucPropertyChargeView" name="nucPropertyChargeView" tableType="VIEW" xmi:id="_Em4qvpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucPropertyGISMornPenView" name="nucPropertyGISMornPenView" tableType="VIEW" xmi:id="_Em4qv5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucRateSummaryView" name="nucRateSummaryView" tableType="VIEW" xmi:id="_Em4qwJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucRateTotalsView" name="nucRateTotalsView" tableType="VIEW" xmi:id="_Em4qwZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucStreetView" name="nucStreetView" tableType="VIEW" xmi:id="_Em4qwpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="nucThemeAssociationView" name="nucThemeAssociationView" tableType="VIEW" xmi:id="_Em4qw5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1ANI_ANIMAL_VW" name="P1ANI_ANIMAL_VW" tableType="VIEW" xmi:id="_Em4qxJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1ANI_CERTIFICATE_VW" name="P1ANI_CERTIFICATE_VW" tableType="VIEW" xmi:id="_Em4qxZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1ANI_REGISTRATION_VW" name="P1ANI_REGISTRATION_VW" tableType="VIEW" xmi:id="_Em4qxpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1BIL_PROFILECRITERIASOURCE_VW" name="P1BIL_PROFILECRITERIASOURCE_VW" tableType="VIEW" xmi:id="_Em4qx5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1BIL_RATESMODEL_VW" name="P1BIL_RATESMODEL_VW" tableType="VIEW" xmi:id="_Em4qyJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1BIL_WS_CHARGE_ASSIGN_VW" name="P1BIL_WS_CHARGE_ASSIGN_VW" tableType="VIEW" xmi:id="_Em4qyZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1COM_APPLN_COMPLIANCE_VW" name="P1COM_APPLN_COMPLIANCE_VW" tableType="VIEW" xmi:id="_Em4qypZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1COM_APPLN_STREAM_VW" name="P1COM_APPLN_STREAM_VW" tableType="VIEW" xmi:id="_Em4qy5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1COM_INFRA_CHG_VW" name="P1COM_INFRA_CHG_VW" tableType="VIEW" xmi:id="_Em4qzJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1CON_GIS_LINKAGES_VIEW" name="P1CON_GIS_LINKAGES_VIEW" tableType="VIEW" xmi:id="_Em4qzZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1DEB_DEBT_REC_CASE_VW" name="P1DEB_DEBT_REC_CASE_VW" tableType="VIEW" xmi:id="_Em4qzpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1DEB_DUE_TRANS_VW" name="P1DEB_DUE_TRANS_VW" tableType="VIEW" xmi:id="_Em4qz5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1DEB_ECR_ENTITY_VW" name="P1DEB_ECR_ENTITY_VW" tableType="VIEW" xmi:id="_Em4q0JZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1DEB_ECR_OUTSTANDING_VW" name="P1DEB_ECR_OUTSTANDING_VW" tableType="VIEW" xmi:id="_Em4q0ZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1DEB_ECR_SYSTEM_VW" name="P1DEB_ECR_SYSTEM_VW" tableType="VIEW" xmi:id="_Em4q0pZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1DEB_INVOICE_VW" name="P1DEB_INVOICE_VW" tableType="VIEW" xmi:id="_Em4q05ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1DEB_PAYMENT_PLAN_VW" name="P1DEB_PAYMENT_PLAN_VW" tableType="VIEW" xmi:id="_Em4q1JZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1DEB_PAYPLAN_DETAIL_HIS_VW" name="P1DEB_PAYPLAN_DETAIL_HIS_VW" tableType="VIEW" xmi:id="_Em4q1ZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1DEB_PROP_FIN_SUM_VW" name="P1DEB_PROP_FIN_SUM_VW" tableType="VIEW" xmi:id="_Em4q1pZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1EPL_LandConstraintsDevActRelationshipView" name="P1EPL_LandConstraintsDevActRelationshipView" tableType="VIEW" xmi:id="_Em4q15ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1EPL_LandConstraintsRegRelationshipView" name="P1EPL_LandConstraintsRegRelationshipView" tableType="VIEW" xmi:id="_Em4q2JZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1EPL_LandConstraintsWithControlsView" name="P1EPL_LandConstraintsWithControlsView" tableType="VIEW" xmi:id="_Em4q2ZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1PLN_NAME_HIDE_PRIVATE" name="P1PLN_NAME_HIDE_PRIVATE" tableType="VIEW" xmi:id="_Em4q2pZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1PLN_NAME_VW" name="P1PLN_NAME_VW" tableType="VIEW" xmi:id="_Em4q25ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1PLN_PROP_STREET_COMBINED" name="P1PLN_PROP_STREET_COMBINED" tableType="VIEW" xmi:id="_Em4q3JZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1PRC_COMBINED_ENTITY_TYPES" name="P1PRC_COMBINED_ENTITY_TYPES" tableType="VIEW" xmi:id="_Em4q3ZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1RPT_CRYSTAL_VIEW" name="P1RPT_CRYSTAL_VIEW" tableType="VIEW" xmi:id="_Em4q3pZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1SRV_DEVICE_SERVICE_ASSOC_VW" name="P1SRV_DEVICE_SERVICE_ASSOC_VW" tableType="VIEW" xmi:id="_Em4q35ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1SRV_DEVICE_VW" name="P1SRV_DEVICE_VW" tableType="VIEW" xmi:id="_Em4q4JZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1SRV_SERVICE_CONTRACT_DET_VW" name="P1SRV_SERVICE_CONTRACT_DET_VW" tableType="VIEW" xmi:id="_Em4q4ZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1SRV_SERVICE_CONTRACT_VW" name="P1SRV_SERVICE_CONTRACT_VW" tableType="VIEW" xmi:id="_Em4q4pZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1WTMCONNECTIONMPCVIEW" name="P1WTMCONNECTIONMPCVIEW" tableType="VIEW" xmi:id="_Em4q45ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1WTMCONNECTIONPARENTVIEW" name="P1WTMCONNECTIONPARENTVIEW" tableType="VIEW" xmi:id="_Em4q5JZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1WTMCONNECTIONPRIMARYPARENTVIEW" name="P1WTMCONNECTIONPRIMARYPARENTVIEW" tableType="VIEW" xmi:id="_Em4q5ZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1WTMReadingProcessReadings" name="P1WTMReadingProcessReadings" tableType="VIEW" xmi:id="_Em4q5pZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="P1WTMWaterAccountConnections" name="P1WTMWaterAccountConnections" tableType="VIEW" xmi:id="_Em4q55ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ramApplicationCRMLogView" name="ramApplicationCRMLogView" tableType="VIEW" xmi:id="_Em4q6JZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ramCategoryeCRMView" name="ramCategoryeCRMView" tableType="VIEW" xmi:id="_Em4q6ZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ramDSEApplicationProcessView" name="ramDSEApplicationProcessView" tableType="VIEW" xmi:id="_Em4q6pZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ramEventClockEffectView" name="ramEventClockEffectView" tableType="VIEW" xmi:id="_Em4q65ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ratFSLDetailsView" name="ratFSLDetailsView" tableType="VIEW" xmi:id="_Em4q7JZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="ratSuppRunView" name="ratSuppRunView" tableType="VIEW" xmi:id="_Em4q7ZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="revBankingChequeView" name="revBankingChequeView" tableType="VIEW" xmi:id="_Em4q7pZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="revBankingChequeViewByReceipt" name="revBankingChequeViewByReceipt" tableType="VIEW" xmi:id="_Em4q75ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="revBankingView" name="revBankingView" tableType="VIEW" xmi:id="_Em4q8JZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="revCashierCIView" name="revCashierCIView" tableType="VIEW" xmi:id="_Em4q8ZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="revCashierView" name="revCashierView" tableType="VIEW" xmi:id="_Em4q8pZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="revChequeView" name="revChequeView" tableType="VIEW" xmi:id="_Em4q85ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="revReceiptTranTaxView" name="revReceiptTranTaxView" tableType="VIEW" xmi:id="_Em4q9JZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="revReceiptView" name="revReceiptView" tableType="VIEW" xmi:id="_Em4q9ZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="revReceiptwithTaxView" name="revReceiptwithTaxView" tableType="VIEW" xmi:id="_Em4q9pZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="revRemittanceView" name="revRemittanceView" tableType="VIEW" xmi:id="_Em4q95ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="rptAllAuthorisationsView" name="rptAllAuthorisationsView" tableType="VIEW" xmi:id="_Em4q-JZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="rptCommunityLandRegisterView" name="rptCommunityLandRegisterView" tableType="VIEW" xmi:id="_Em4q-ZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="rptRamPropertyApplicationView" name="rptRamPropertyApplicationView" tableType="VIEW" xmi:id="_Em4q-pZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="speAccountListView" name="speAccountListView" tableType="VIEW" xmi:id="_Em4q-5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="speInstalmentView" name="speInstalmentView" tableType="VIEW" xmi:id="_Em4q_JZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="speSchemeBalanceView" name="speSchemeBalanceView" tableType="VIEW" xmi:id="_Em4q_ZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="speTransactionView" name="speTransactionView" tableType="VIEW" xmi:id="_Em4q_pZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="srvPaymentPeriodView" name="srvPaymentPeriodView" tableType="VIEW" xmi:id="_Em4q_5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="srvServiceControlView" name="srvServiceControlView" tableType="VIEW" xmi:id="_Em4rAJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="srvServiceCountView" name="srvServiceCountView" tableType="VIEW" xmi:id="_Em4rAZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="srvServicePeriodView" name="srvServicePeriodView" tableType="VIEW" xmi:id="_Em4rApZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="srvServiceRoutePlanView" name="srvServiceRoutePlanView" tableType="VIEW" xmi:id="_Em4rA5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="srvServiceTransactionContractorView" name="srvServiceTransactionContractorView" tableType="VIEW" xmi:id="_Em4rBJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="srvServiceTransactionView" name="srvServiceTransactionView" tableType="VIEW" xmi:id="_Em4rBZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="srvServiceTypeView" name="srvServiceTypeView" tableType="VIEW" xmi:id="_Em4rBpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysAlertColumnsView" name="sysAlertColumnsView" tableType="VIEW" xmi:id="_Em4rB5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysAuthorisationsResolved" name="sysAuthorisationsResolved" tableType="VIEW" xmi:id="_Em4rCJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysColumnHelpView" name="sysColumnHelpView" tableType="VIEW" xmi:id="_Em4rCZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysColumnsView" name="sysColumnsView" tableType="VIEW" xmi:id="_Em4rCpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysDatabaseView" name="sysDatabaseView" tableType="VIEW" xmi:id="_Em4rC5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysIndexView" name="sysIndexView" tableType="VIEW" xmi:id="_Em4rDJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysRoleUserMembership" name="sysRoleUserMembership" tableType="VIEW" xmi:id="_Em4rDZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysSecurityAppUsers" name="sysSecurityAppUsers" tableType="VIEW" xmi:id="_Em4rDpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysSecurityAppUsersNotInSql" name="sysSecurityAppUsersNotInSql" tableType="VIEW" xmi:id="_Em4rD5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysSecuritySqlRolesExceptDBLevel" name="sysSecuritySqlRolesExceptDBLevel" tableType="VIEW" xmi:id="_Em4rEJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysSecuritySqlRolesNotInApp" name="sysSecuritySqlRolesNotInApp" tableType="VIEW" xmi:id="_Em4rEZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysSecuritySqlUsersNotInApp" name="sysSecuritySqlUsersNotInApp" tableType="VIEW" xmi:id="_Em4rEpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysServerView" name="sysServerView" tableType="VIEW" xmi:id="_Em4rE5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysTableDefaultView" name="sysTableDefaultView" tableType="VIEW" xmi:id="_Em4rFJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="sysTablePropertyView" name="sysTablePropertyView" tableType="VIEW" xmi:id="_Em4rFZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="TBATT_SS_ATTCHMT_VW" name="TBATT_SS_ATTCHMT_VW" tableType="VIEW" xmi:id="_Em4rFpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="tbfrm_report_vw" name="tbfrm_report_vw" tableType="VIEW" xmi:id="_Em4rF5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="tbfrm_response_report_vw" name="tbfrm_response_report_vw" tableType="VIEW" xmi:id="_Em4rGJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="TBSST_ATT_CONFIGURATION_VW" name="TBSST_ATT_CONFIGURATION_VW" tableType="VIEW" xmi:id="_Em4rGZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="usr_ramapplicationprocess_prop_vw1" name="usr_ramapplicationprocess_prop_vw1" tableType="VIEW" xmi:id="_Em4rGpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="usr_RestrictedBreedAnimal" name="usr_RestrictedBreedAnimal" tableType="VIEW" xmi:id="_Em4rG5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="usrAllAddresses" name="usrAllAddresses" tableType="VIEW" xmi:id="_Em4rHJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="usrHealthCheckErrorView" name="usrHealthCheckErrorView" tableType="VIEW" xmi:id="_Em4rHZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="usrMissingMPDMCount" name="usrMissingMPDMCount" tableType="VIEW" xmi:id="_Em4rHpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="usrMissingMPDMDetails" name="usrMissingMPDMDetails" tableType="VIEW" xmi:id="_Em4rH5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="usrOwnerPropertyAddressMismatch" name="usrOwnerPropertyAddressMismatch" tableType="VIEW" xmi:id="_Em4rIJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="usrRatesBalancingView" name="usrRatesBalancingView" tableType="VIEW" xmi:id="_Em4rIZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="usrsysProtects_CoS" name="usrsysProtects_CoS" tableType="VIEW" xmi:id="_Em4rIpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="votElectoralRollView" name="votElectoralRollView" tableType="VIEW" xmi:id="_Em4rI5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="votElectorateValidAddrView" name="votElectorateValidAddrView" tableType="VIEW" xmi:id="_Em4rJJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="votEnrolmentRegisterQBFView" name="votEnrolmentRegisterQBFView" tableType="VIEW" xmi:id="_Em4rJZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="votEnrolmentRegisterView" name="votEnrolmentRegisterView" tableType="VIEW" xmi:id="_Em4rJpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="votStreetListView" name="votStreetListView" tableType="VIEW" xmi:id="_Em4rJ5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="votVotersView" name="votVotersView" tableType="VIEW" xmi:id="_Em4rKJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="watAddressView" name="watAddressView" tableType="VIEW" xmi:id="_Em4rKZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="watConnectionView" name="watConnectionView" tableType="VIEW" xmi:id="_Em4rKpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="watConnectionView2" name="watConnectionView2" tableType="VIEW" xmi:id="_Em4rK5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="watConnectionView3" name="watConnectionView3" tableType="VIEW" xmi:id="_Em4rLJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="X_RegMig060A_V1" name="X_RegMig060A_V1" tableType="VIEW" xmi:id="_Em4rLZZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="X_RegMig060A_V2" name="X_RegMig060A_V2" tableType="VIEW" xmi:id="_Em4rLpZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="X_RegMig060A_V3" name="X_RegMig060A_V3" tableType="VIEW" xmi:id="_Em4rL5ZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
+      <ownedElement label="X_RegMig060A_V4" name="X_RegMig060A_V4" tableType="VIEW" xmi:id="_Em4rMJZfEemRzcoMFIjDFQ" xsi:type="relational:TdView"/>
     </ownedElement>
     <ownedElement name="guest" xmi:id="_FVdZ9pZaEemRzcoMFIjDFQ" xsi:type="orgomg.cwm.resource.relational:Schema"/>
     <ownedElement name="INFORMATION_SCHEMA" xmi:id="_FVdZ95ZaEemRzcoMFIjDFQ" xsi:type="orgomg.cwm.resource.relational:Schema"/>
@@ -1799,13 +2008,13 @@
     <ownedElement name="ProXMLUser" xmi:id="_FVnK_JZaEemRzcoMFIjDFQ" xsi:type="orgomg.cwm.resource.relational:Schema"/>
     <ownedElement name="scheduleadmin" xmi:id="_FVnK_ZZaEemRzcoMFIjDFQ" xsi:type="orgomg.cwm.resource.relational:Schema"/>
   </orgomg.cwm.resource.relational:Catalog>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_a884e54a-64db-49e2-b6de-3585a300583c"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ApHXT4tHidsuKX1TyQ1wXwVoOw3RRM5Rv56fflG8IoPELgVl6hv+8nyd2ILAuNpODrIOHVzIoNrA
-7triJhU06Q==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_4c288a6c-4cc4-4508-ab46-80c380340d19"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>sU2rwTUec1UAuXUQ3jiOrNsh52fRNUhIlh3nK6vpFbKq3CrOdzJ9BPg7XHlH9OkNtKo6RH3DUObb
-MDwnMxGGFA==</DigestValue></Reference></SignedInfo><SignatureValue>LqiCCWwAwFMZWQwSMGs0W6gHoHSgPtBjQDx289DBHZZrCQ+9XwIs6Fbuj3BhtO97sMRAD7DzoOcL
-X9GgGmlmpqut7b0dgyeiiqB7vxjb/aUsvyE35rUT/nf8zrx3exKtiCAYgeMQH5iLmfOBKei+qIL2
-B/VgFGr4jUWCffloMkpyEumY35iD4NGua6vMMWz6qYxue7Fe8HPeqscIV1XvdVbQ4/+IxLADNlWB
-5RL+cXAECzxskbxwPQklxDC6PvswKQeBVE8fmQg6j5C/fLo+VVuX+JGXW1ORadhaduPqD71gPMUZ
-5/EHckMZLyQgHSJqsgbRfpPOfuwCyAUbJKHddA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_731d6c8b-6339-404a-801d-9ab89424acb1"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>tW+G8YTVPiSCneD55mp3SzdU2N24Egs1DuodMEHEUuxD8pZKWOfBYOGvphECcNNSyXQHbo+/2bxx
++AsvHbmz9A==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_ac69421e-d69c-471b-9b64-8b368105ad6b"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>L5RYUAbx/m99HSG4BWuS/A87aPLp3w+IWWEx29nIDY/SrnFkOZnZYEtKzAMP8AQlKPamn+829N6G
+npWYY70nYw==</DigestValue></Reference></SignedInfo><SignatureValue>Fxcgts+Ai1kcdVoKqBC6xah9XKQ9ALo2YOCK+X/tmATuUzfX7QpnNXKNFr25wdDOouZ1Z5Sz09DT
+NIHCtGLJKOZxWXkFpRZ2z6K4mcKtZhWNJF12AerieFBP6Ae+EAnu71Hq94xBcJ21rVK6EozK+eMJ
+oJrgWgky8y3YYuyqivF6iTZrSAkVL4si3cuzlMwjsB7328Zgx+c8FJOiEGBJmNOOKS65xacfSGiq
+a1bVY8edgmkKABq7LfAyD482Oq9DIqarDoRIjFucKdEscCvgbjFPYQkWqKlltNai/3oGwfuNOZ0n
+QIynXcxQoKsXWMU5Ix6jSJ2D9VrTK55XYlfvmA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
 BVBhcmlzMQ4wDAYDVQQHDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1Im
 RDEWMBQGA1UEAwwNVGFsZW5kIFImRCBDQTEiMCAGCSqGSIb3DQEJARYTc2VjdXJpdHlAdGFsZW5k
 LmNvbTAeFw0xODAxMTgwMDA2MTJaFw0yMTAxMTcwMDA2MTJaMGwxCzAJBgNVBAYTAkZSMQ4wDAYD
@@ -1829,4 +2038,4 @@ r3/fbKJ02Ni9kCnkY8wQS1yn45UNl1woSjryza4f4uLKGkrrIsUPXK+Vy4A1Il8XgFfmrtgA8m9s
 EHyu0OyAJH/agWN+GLhF/ssp26oXhiYqTkG4sQtNRFQG0isaYf/JWSt3f8Q+7/pnZpz4mfEAFimI
 BBLzRwDA6x9qqOn0RXxBo9pH16EO3SXPLR64cJum8B/RI/i8H6OkQDO1tEiE6UeceZk++U7fnD3c
 6i9Km85GTgQi6REsVZGIL/tZNIzN//qPwi7cDo3Cf/xmPrIKQhHJaxCqmbjGDmC8AXOaqNfWotVX
-Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_4c288a6c-4cc4-4508-ab46-80c380340d19" Target="#_a884e54a-64db-49e2-b6de-3585a300583c"><Timestamp>2019-06-24 08:33:59</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
+Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_ac69421e-d69c-471b-9b64-8b368105ad6b" Target="#_731d6c8b-6339-404a-801d-9ab89424acb1"><Timestamp>2019-06-24 09:04:28</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
